@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "a0fb",
-      "title": "Test Job",
-      "type": "Full-Time",
-      "location": "IND",
-      "description": "Test JD",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Test Company",
-        "description": "Test Company Desc.",
-        "contactEmail": "test@test.com",
-        "contactPhone": ""
-      }
     }
   ]
 }
